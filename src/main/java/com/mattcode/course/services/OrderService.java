@@ -1,9 +1,7 @@
 package com.mattcode.course.services;
 
 import com.mattcode.course.entities.Order;
-import com.mattcode.course.entities.User;
 import com.mattcode.course.repositories.OrderRepository;
-import com.mattcode.course.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
